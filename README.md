@@ -1,6 +1,6 @@
-# Personal solutions on assignments from the course Functional Programming Principles in Scala
+# Functional Programming Principles in Scala
 
-https://www.coursera.org/learn/progfun1
+Personal solutions on assignments from the course https://www.coursera.org/learn/progfun1
 
 ## Syllabus and programming assignments
 
